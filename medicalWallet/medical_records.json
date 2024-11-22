@@ -1,0 +1,35 @@
+[
+    {
+        "user_id": "user123",
+        "medical_record_id": "rec456",
+        "record_type": "lab_result",
+        "description": "Blood test for glucose",
+        "data": "Blood glucose level: 5.5 mmol/L",
+        "created_by": "doctor_1",
+        "status": "Finalized",
+        "version": 1,
+        "permissions": ["doctor_1"]
+    },
+    {
+        "user_id": "user123",
+        "medical_record_id": "rec789",
+        "record_type": "diagnosis",
+        "description": "Diagnosis of Type 1 Diabetes",
+        "data": "Patient diagnosed with Type 1 Diabetes",
+        "created_by": "doctor_2",
+        "status": "Finalized",
+        "version": 1,
+        "permissions": ["doctor_2"]
+    },
+    {
+        "user_id": "user123",
+        "medical_record_id": "rec799",
+        "record_type": "diagnosis",
+        "description": "Diagnosis of Rhinitis Allergies",
+        "data": "Patient diagnosed with Rhinitis",
+        "created_by": "doctor_1",
+        "status": "Finalized",
+        "version": 1,
+        "permissions": ["doctor_1"]
+    }
+]

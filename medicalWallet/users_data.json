@@ -1,0 +1,1 @@
+{"user123": {"user_id": "user123", "name": "Patient user123", "role": "Patient", "permissions": []}, "doctor_1": {"user_id": "doctor_1", "name": "Doctor doctor_1", "role": "Doctor", "permissions": []}, "doctor_2": {"user_id": "doctor_2", "name": "Doctor doctor_2", "role": "Doctor", "permissions": []}}
